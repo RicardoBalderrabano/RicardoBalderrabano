@@ -34,9 +34,6 @@
 
 
 ### 💡💡 Projects
-<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tX8zn7Dbin4?si=Dp_R-AHgwsY-PRZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+[![Inmotic System](https://img.youtube.com/vi/https://youtu.be/tX8zn7Dbin4/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/tX8zn7Dbin4)
 
 
