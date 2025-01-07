@@ -38,11 +38,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tX8zn7Dbin4?si=-ILZQh6_i0py-Bs1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
-
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
 
 
