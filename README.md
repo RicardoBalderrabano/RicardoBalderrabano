@@ -35,7 +35,7 @@
 
 ### 💡💡 Projects
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tX8zn7Dbin4/0.jpg)](https://www.youtube.com/watch?v=tX8zn7Dbin4)
+[![INMOTIC SYSTEM](https://img.youtube.com/vi/tX8zn7Dbin4/0.jpg)](https://www.youtube.com/watch?v=tX8zn7Dbin4)
 
 
 
