@@ -30,10 +30,10 @@
 <img align="left" alt="SolidWorks" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000"/>
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
 <br />
-
+<br />
 #
 
-### 📺 Latest YouTube Videos
+### 💡💡 Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![My Experience with Rust as a Java Dev](https://ytcards.demolab.com/?id=a0LtFp-7T2s&title=My+Experience+with+Rust+as+a+Java+Dev&lang=en&timestamp=1735398001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1183 "My Experience with Rust as a Java Dev")](https://www.youtube.com/watch?v=a0LtFp-7T2s)
