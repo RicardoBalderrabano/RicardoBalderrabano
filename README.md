@@ -35,4 +35,4 @@
 
 ### 💡💡 Projects
 
-[![Inmotic System](https://ytcards.demolab.com/?id=tX8zn7Dbin4&title=Everything+You+NEED+to+Know+about+Docker&lang=en&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1106 "Inmotic System")](https://www.youtube.com/watch?v=tX8zn7Dbin4)
+[![Inmotic System](https://ytcards.demolab.com/?id=tX8zn7Dbin4&title=Inmotic+System&lang=en&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1106 "Inmotic System")](https://www.youtube.com/watch?v=tX8zn7Dbin4)
