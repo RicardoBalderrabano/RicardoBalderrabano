@@ -27,7 +27,8 @@ I am a passionate Mechatronic Engineer currently in my second year of a Masterâ€
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img align="left" alt="LabView" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg" />
-<img align="left" alt="LabView" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000"/>
+<img align="left" alt="SolidWorks" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000"/>
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
 <br />
 
 #
