@@ -34,8 +34,8 @@
 
 
 ### 💡💡 Projects
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/embed/tX8zn7Dbin4?si=jJMy9KT7WSGWF3HW/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tX8zn7Dbin4&ab_channel=BALDERRABANORODRIGUEZRICARDO/0.jpg)](https://www.youtube.com/watch?v=tX8zn7Dbin4&ab_channel=BALDERRABANORODRIGUEZRICARDO)
 
 
-[![IMAGE ALT TEXT HERE]([https://www.youtube.com/embed/tX8zn7Dbin4?si=jJMy9KT7WSGWF3HW)](https://www.youtube.com/watch?v=https://youtu.be/tX8zn7Dbin4?si=K8FrzP45_HNGYTjN)
 
