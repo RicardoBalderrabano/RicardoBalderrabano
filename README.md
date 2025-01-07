@@ -2,7 +2,7 @@
 
 **`| Mechatronics Engineer | Msc. Robotics and Automation |`**
 
-# I am a passionate Mechatronic Engineer currently in my second year of a Master’s program in Robotics and Automation. My interests lie at the intersection of cutting-edge technology and practical problem-solving, with a focus on designing intelligent systems that integrate mechanical, electronic, and software components. I enjoy exploring innovative solutions, contributing to projects that push the boundaries of robotics, and continuously expanding my expertise in automation and control systems.
+### I am a passionate Mechatronic Engineer currently in my second year of a Master’s program in Robotics and Automation. My interests lie at the intersection of cutting-edge technology and practical problem-solving, with a focus on designing intelligent systems that integrate mechanical, electronic, and software components. I enjoy exploring innovative solutions, contributing to projects that push the boundaries of robotics, and continuously expanding my expertise in automation and control systems.
 ---
 
 ### 🧰 Languages and Tools
