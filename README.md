@@ -34,6 +34,6 @@
 
 
 ### 💡💡 Projects
-[![Inmotic System](https://img.youtube.com/vi/https://youtu.be/tX8zn7Dbin4/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/tX8zn7Dbin4)
+[![Inmotic System](https://img.youtube.com/vi/https://youtu.be/tX8zn7Dbin4?si=oThAARIeH9Gz9551/0.jpg)](https://www.youtube.com/watch?v=[https://youtu.be/tX8zn7Dbin4](https://youtu.be/tX8zn7Dbin4?si=oThAARIeH9Gz9551))
 
 
