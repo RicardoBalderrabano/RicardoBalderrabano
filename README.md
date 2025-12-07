@@ -1,9 +1,44 @@
-# 🤖 Ricardo Balderrabano 
+#  Ricardo Balderrabano 
 
-**`| Mechatronics Engineer | Msc. Robotics and Automation |`**
+# 👋 Hi, I'm [Your Name]
 
-### I am a passionate Mechatronic Engineer currently in my second year of a Master’s program in Robotics and Automation. My interests lie at the intersection of cutting-edge technology and practical problem-solving, with a focus on designing intelligent systems that integrate mechanical, electronic, and software components. I enjoy exploring innovative solutions, contributing to projects that push the boundaries of robotics, and continuously expanding my expertise in automation and control systems.
+**Mechatronics Engineer | Master's Candidate in Robotics & Automation**  
+I design, model, and implement intelligent robotic systems—from embedded firmware to ROS-based autonomy stacks. My work bridges **hardware prototyping, sensor integration, and software development** for real-world robotics applications.
+
 ---
+
+## 🛠️ Technical Toolkit
+| Category            | Tools & Technologies                                                                 |
+|----------------------|--------------------------------------------------------------------------------------|
+| **Programming**      | C++, Python, C, MATLAB/Simulink, Bash                                                |
+| **Robotics Middleware** | ROS/ROS2 (nodes, topics, services, Gazebo simulation, RViz)                         |
+| **Perception & Vision** | OpenCV, SLAM, sensor drivers (LiDAR, IMU, cameras), point cloud processing          |
+| **Embedded & Hardware** | STM32, Arduino, Raspberry Pi, UART/SPI/I2C, PCB basic design, servo/motor control   |
+| **CAD & Simulation**  | SolidWorks, Fusion 360, Gazebo, MATLAB for system modeling                          |
+| **Tools & Methods**   | Git, Linux, Docker, Agile/iterative design, cross-functional collaboration          |
+
+---
+
+## 🚀 Featured Projects
+Here are a few examples of my work in robotics and automation:
+
+
+---
+
+## 🎓 Current Focus
+- Completing my **Master’s in Robotics & Automation** at Università della Calabria.
+- Contributing to **Unical Reparto Corse (Formula SAE)** in the CAD and prototyping division, with a growing interest in **autonomous systems and sensor integration**.
+- Deepening expertise in **ROS 2, perception pipelines, and embedded robotics**.
+
+---
+
+## 📫 Let's Connect
+- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** [Your email]
+- **Portfolio:** [If you have one]
+
+Open to collaborations on open-source robotics projects, research, or internship/job opportunities in:
+> **Robotics Software Engineering | ROS Development | Autonomous Systems | Embedded Robotics**
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
