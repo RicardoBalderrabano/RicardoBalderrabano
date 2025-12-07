@@ -1,7 +1,5 @@
 #  Ricardo Balderrabano 
 
-# 👋 Hi, I'm [Your Name]
-
 **Mechatronics Engineer | Master's Candidate in Robotics & Automation**  
 I design, model, and implement intelligent robotic systems—from embedded firmware to ROS-based autonomy stacks. My work bridges **hardware prototyping, sensor integration, and software development** for real-world robotics applications.
 
@@ -19,9 +17,12 @@ I design, model, and implement intelligent robotic systems—from embedded firmw
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 Here are a few examples of my work in robotics and automation:
 
+• Smart IoT Building System (RPi, Python, facial recognition, Web development, C#, PCB Design)  
+• Embedded PID Control for Aeropendulum (MATLAB, C, sensor fusion, Kalman Filter, MPU5060, STM, C Programming)  
+• Autonomous Robot Navigation Stack (RRT, VFH, Kalman Filter in MATLAB)
 
 ---
 
@@ -33,9 +34,8 @@ Here are a few examples of my work in robotics and automation:
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your email]
-- **Portfolio:** [If you have one]
+- **LinkedIn:** [https://www.linkedin.com/in/ricardobalderrabano/]
+- **Email:** [balderrabanorodriguez@gmail.com]
 
 Open to collaborations on open-source robotics projects, research, or internship/job opportunities in:
 > **Robotics Software Engineering | ROS Development | Autonomous Systems | Embedded Robotics**
