@@ -5,7 +5,7 @@ I design, model, and implement intelligent robotic systems—from embedded firmw
 
 ---
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 | Category            | Tools & Technologies                                                                 |
 |----------------------|--------------------------------------------------------------------------------------|
 | **Programming**      | C++, Python, C, MATLAB/Simulink, Bash                                                |
@@ -26,14 +26,14 @@ Here are a few examples of my work in robotics and automation:
 
 ---
 
-## 🎓 Current Focus
+##  Current Focus
 - Completing my **Master’s in Robotics & Automation** at Università della Calabria.
 - Contributing to **Unical Reparto Corse (Formula SAE)** in the CAD and prototyping division, with a growing interest in **autonomous systems and sensor integration**.
 - Deepening expertise in **ROS 2, perception pipelines, and embedded robotics**.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/ricardobalderrabano/]
 - **Email:** [balderrabanorodriguez@gmail.com]
 
