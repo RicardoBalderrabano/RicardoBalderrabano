@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/RicardoBalderrabano">
+    <img src="https://github-readme-stats.vercel.app/api?username=RicardoBalderrabano&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Ricardo's GitHub Stats" />
+  </a>
+  <a href="https://github.com/RicardoBalderrabano">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBalderrabano&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  </a>
+</p>
 
 # Ricardo Balderrábano Rodriguez
 
