@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://github.com/RicardoBalderrabano">
-    <img src="https://github-readme-stats.vercel.app/api?username=RicardoBalderrabano&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9" alt="Ricardo's GitHub Stats" />
-  </a>
-  <a href="https://github.com/RicardoBalderrabano">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBalderrabano&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Top Languages" />
-  </a>
-</p>
+
 
 # Ricardo Balderrábano Rodriguez
 
@@ -74,7 +67,11 @@ Open to collaborations on open-source robotics projects, research, or internship
 
 ### 💡 Projects
 
-[![Inmotic System](https://ytcards.demolab.com/?id=tX8zn7Dbin4&title=Inmotic+System&lang=en&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0330 "Inmotic System")](https://www.youtube.com/watch?v=tX8zn7Dbin4)
-[![Aeropendulum](https://ytcards.demolab.com/?id=WGMOD_z1P68&title=Aeropendulum+PID+Control&lang=en&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0015 "Aeropendulum_PID_Control")](https://www.youtube.com/watch?v=WGMOD_z1P68)
-[![Multirobots](https://ytcards.demolab.com/?id=HuXAb5MacOs&title=Multi+Robot+Control&lang=en&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0015 "Aeropendulum_PID_Control")](https://www.youtube.com/watch?v=HuXAb5MacOs)
+### 1. Swarm Robotics (Multi-Agent Control & Estimation)
+[![View Code](https://img.shields.io/badge/View_Code-Repository-blue?logo=github)](https://github.com/your-link-here)
 
+Engineered a custom Adaptive $SE(2)$ Extended Kalman Filter (EKF) to fuse high-frequency wheel odometry with LIDAR data. Formulated and deployed a Hybrid Artificial Potential Field (Vortex Field Control Law) for collision avoidance and stable swarm formations.
+
+<img src="link-to-your-swarm-gif.gif" width="600" alt="Swarm Robotics Demo" />
+
+**Tech Stack:** `ROS 2` `C++` `LIDAR` `EKF` `Python`
