@@ -82,7 +82,7 @@ Engineered a custom Adaptive SE(2) Extended Kalman Filter (EKF) to fuse high-fre
 ### 2. Embedded PID Control for Aeropendulum
 [![View Code](https://img.shields.io/badge/View_Code-Repository-blue?logo=github)](https://github.com/RicardoBalderrabano/Aeropendulum.git)
 
-Engineered a PID control system on an STM32 using Bare-metal C (Direct Register Access), applying the Ziegler-Nichols method for precise gain tuning and rapid stabilization[cite: 1]. Implemented Sensor Fusion using a Kalman Filter to process raw IMU data (Accelerometer/Gyroscope), achieving superior noise rejection and state estimation compared to complementary filters[cite: 1]. Derived the mathematical state-space model in MATLAB to analyze controllability and developed a LabVIEW HMI for real-time telemetry analysis via UART[cite: 1].
+Engineered a PID control system on an STM32 using Bare-metal C (Direct Register Access), applying the Ziegler-Nichols method for precise gain tuning and rapid stabilization. Implemented Sensor Fusion using a Kalman Filter to process raw IMU data (Accelerometer/Gyroscope), achieving superior noise rejection and state estimation compared to complementary filters. Derived the mathematical state-space model in MATLAB to analyze controllability and developed a LabVIEW HMI for real-time telemetry analysis via UART.
 
 <p align="center">
 
