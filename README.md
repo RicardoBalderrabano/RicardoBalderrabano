@@ -93,3 +93,15 @@ Engineered a PID control system on an STM32 using Bare-metal C (Direct Register 
 </p>
 
 **Tech Stack:** `STM32` `Bare-metal C` `Kalman Filter` `PID` `MATLAB` `LabVIEW` `UART`
+
+
+### 3. Smart Building Automation System
+[![View Code](https://img.shields.io/badge/View_Code-Repository-blue?logo=github)](https://github.com/your-link-here)
+
+Executed the complete mechatronic design cycle following the VDI 2206 methodology (V-Model), performing UML modeling and simulations prior to physical validation. Implemented Edge AI Access Control using FaceNet on Raspberry Pi for local inference, seamlessly integrated with Oracle Cloud via a custom Python Flask REST API. Designed a scalable distributed hardware network (up to 150 nodes) using I2C with I/O Expanders, creating custom PCBs in Proteus featuring Optocouplers for galvanic isolation.
+
+<p align="center">
+  <img src="images/INMOTICSYSTEM_gif.gif" width="400" alt="Smart Building System Demo" />
+</p>
+
+**Tech Stack:** `Raspberry Pi` `Python (Flask)` `FaceNet` `I2C` `PCB Design (Proteus)` `Oracle Cloud` `VDI 2206`
