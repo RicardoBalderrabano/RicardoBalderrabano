@@ -73,14 +73,14 @@ Open to collaborations on open-source robotics projects, research, or internship
 Engineered a custom Adaptive SE(2) Extended Kalman Filter (EKF) to fuse high-frequency wheel odometry with LIDAR data. Formulated and deployed a Hybrid Artificial Potential Field (Vortex Field Control Law) for collision avoidance and stable swarm formations.
 
 <p align="center">
-  <img src="images/multirobot_gif.gif" width="600" alt="Swarm Robotics Demo" />
+  <img src="images/multirobot_gif.gif" width="400" alt="Swarm Robotics Demo" />
 </p>
 
 **Tech Stack:** `ROS 2` `LIDAR` `EKF` `Python` `DBSCAN` `Sensor Fusion` `Multi-Robot Control System`   
 
 
 ### 2. Embedded PID Control for Aeropendulum
-[![View Code](https://img.shields.io/badge/View_Code-Repository-blue?logo=github)](https://github.com/your-link-here)
+[![View Code](https://img.shields.io/badge/View_Code-Repository-blue?logo=github)](https://github.com/RicardoBalderrabano/Aeropendulum.git)
 
 Engineered a PID control system on an STM32 using Bare-metal C (Direct Register Access), applying the Ziegler-Nichols method for precise gain tuning and rapid stabilization[cite: 1]. Implemented Sensor Fusion using a Kalman Filter to process raw IMU data (Accelerometer/Gyroscope), achieving superior noise rejection and state estimation compared to complementary filters[cite: 1]. Derived the mathematical state-space model in MATLAB to analyze controllability and developed a LabVIEW HMI for real-time telemetry analysis via UART[cite: 1].
 
