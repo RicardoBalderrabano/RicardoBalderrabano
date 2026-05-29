@@ -76,5 +76,5 @@ Engineered a custom Adaptive SE(2) Extended Kalman Filter (EKF) to fuse high-fre
   <img src="images/multirobot_gif.gif" width="600" alt="Swarm Robotics Demo" />
 </p>
 
-**Tech Stack:** `ROS 2` `C++` `LIDAR` `EKF` `Python`
-* **Filter Tuning:** P = 0.1, Q = 0.001, R = 2.0
+**Tech Stack:** `ROS 2` `LIDAR` `EKF` `Python` `DBSCAN` `Sensor Fusion` `Multi-Robot Control System`   
+
