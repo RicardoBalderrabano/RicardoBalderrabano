@@ -85,7 +85,11 @@ Engineered a custom Adaptive SE(2) Extended Kalman Filter (EKF) to fuse high-fre
 Engineered a PID control system on an STM32 using Bare-metal C (Direct Register Access), applying the Ziegler-Nichols method for precise gain tuning and rapid stabilization[cite: 1]. Implemented Sensor Fusion using a Kalman Filter to process raw IMU data (Accelerometer/Gyroscope), achieving superior noise rejection and state estimation compared to complementary filters[cite: 1]. Derived the mathematical state-space model in MATLAB to analyze controllability and developed a LabVIEW HMI for real-time telemetry analysis via UART[cite: 1].
 
 <p align="center">
-  <img src="images/aeropendulum_gif.gif" width="600" alt="Aeropendulum Stabilization Demo" />
+
+  <img src="images/Aeropendulo1_first.gif" alt="Aeropendulum" style="width:320px;height:569px;">
+
+  <img src="images/Aeropendulo2.gif" alt="Aeropendulum2" style="width:320px;height:569px;">
+
 </p>
 
 **Tech Stack:** `STM32` `Bare-metal C` `Kalman Filter` `PID` `MATLAB` `LabVIEW` `UART`
