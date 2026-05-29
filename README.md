@@ -70,8 +70,11 @@ Open to collaborations on open-source robotics projects, research, or internship
 ### 1. Swarm Robotics (Multi-Agent Control & Estimation)
 [![View Code](https://img.shields.io/badge/View_Code-Repository-blue?logo=github)](https://github.com/your-link-here)
 
-Engineered a custom Adaptive $SE(2)$ Extended Kalman Filter (EKF) to fuse high-frequency wheel odometry with LIDAR data. Formulated and deployed a Hybrid Artificial Potential Field (Vortex Field Control Law) for collision avoidance and stable swarm formations.
+Engineered a custom Adaptive SE(2) Extended Kalman Filter (EKF) to fuse high-frequency wheel odometry with LIDAR data. Formulated and deployed a Hybrid Artificial Potential Field (Vortex Field Control Law) for collision avoidance and stable swarm formations.
 
-<img src="link-to-your-swarm-gif.gif" width="600" alt="Swarm Robotics Demo" />
+<p align="center">
+  <img src="images/multirobot_gif.gif" width="600" alt="Swarm Robotics Demo" />
+</p>
 
 **Tech Stack:** `ROS 2` `C++` `LIDAR` `EKF` `Python`
+* **Filter Tuning:** P = 0.1, Q = 0.001, R = 2.0
