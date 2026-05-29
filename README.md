@@ -103,5 +103,5 @@ Executed the complete mechatronic design cycle following the VDI 2206 methodolog
 <p align="center">
   <img src="images/inmoticsystem_gif.gif" width="400" alt="Smart Building System Demo" />
 </p>
-📄 **[View my Thesis](https://github.com/user-attachments/assets/your-generated-link.pdf](https://github.com/RicardoBalderrabano/TT_Server/blob/a4dc35a4f5fa71e1ea7d5646077f53827940bad8/thesis_upiita.pdf)**
+[![View Thesis](https://img.shields.io/badge/View_Thesis-PDF-red?logo=adobeacrobatreader&logoColor=white)](https://github.com/RicardoBalderrabano/TT_Server/blob/a4dc35a4f5fa71e1ea7d5646077f53827940bad8/thesis_upiita.pdf)
 **Tech Stack:** `Raspberry Pi` `Python (Flask)` `FaceNet` `I2C` `PCB Design (Proteus)` `Oracle Cloud` `VDI 2206`
