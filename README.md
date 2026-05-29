@@ -8,12 +8,12 @@ I design, model, and implement intelligent robotic systems—from embedded firmw
 ##  Technical Toolkit
 | Category            | Tools & Technologies                                                                 |
 |----------------------|--------------------------------------------------------------------------------------|
-| **Programming**      | C++, Python, C, MATLAB/Simulink, Bash                                                |
+| **Programming**      | Python, C, MATLAB/Simulink, Bash                                                |
 | **Robotics Middleware** | ROS/ROS2 (nodes, topics, services, Gazebo simulation, RViz)                         |
 | **Perception & Vision** | OpenCV, SLAM, sensor drivers (LiDAR, IMU, cameras), point cloud processing          |
 | **Embedded & Hardware** | STM32, Arduino, Raspberry Pi, UART/SPI/I2C, PCB basic design, servo/motor control   |
-| **CAD & Simulation**  | SolidWorks, Fusion 360, Gazebo, MATLAB for system modeling                          |
-| **Tools & Methods**   | Git, Linux, Docker, Agile/iterative design, cross-functional collaboration          |
+| **CAD & Simulation**  | SolidWorks, Gazebo, MATLAB for system modeling                          |
+| **Tools & Methods**   | Git, Linux, Agile/iterative design, VDI 2206, cross-functional collaboration          |
 
 ---
 
