@@ -96,7 +96,7 @@ Engineered a PID control system on an STM32 using Bare-metal C (Direct Register 
 
 
 ### 3. Smart Building Automation System
-[![View Code](https://img.shields.io/badge/View_Code-Repository-blue?logo=github)](https://github.com/your-link-here)
+[![View Code](https://img.shields.io/badge/View_Code-Repository-blue?logo=github)](https://github.com/RicardoBalderrabano/TT_Server.git)
 
 Executed the complete mechatronic design cycle following the VDI 2206 methodology (V-Model), performing UML modeling and simulations prior to physical validation. Implemented Edge AI Access Control using FaceNet on Raspberry Pi for local inference, seamlessly integrated with Oracle Cloud via a custom Python Flask REST API. Designed a scalable distributed hardware network (up to 150 nodes) using I2C with I/O Expanders, creating custom PCBs in Proteus featuring Optocouplers for galvanic isolation.
 
