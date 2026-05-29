@@ -1,5 +1,5 @@
 
-# Ricardo Balderrábano 
+# Ricardo Balderrábano Rodriguez
 
 **Robotics & Control Engineer** Specializing in multi-agent systems, custom state estimation (EKF), and ROS 2 middleware optimization. I bridge the gap between rigorous control theory and high-performance hardware implementation. My work focuses on deploying non-linear control and LIDAR perception algorithms onto resource-constrained, bare-metal hardware.
 
